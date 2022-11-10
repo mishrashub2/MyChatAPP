@@ -1,0 +1,11 @@
+C:\Users\mishr\source\repos\WindowsFormsChatapp\WindowsFormsChatapp\bin\Debug\WindowsFormsChatapp.exe.config
+C:\Users\mishr\source\repos\WindowsFormsChatapp\WindowsFormsChatapp\bin\Debug\WindowsFormsChatapp.exe
+C:\Users\mishr\source\repos\WindowsFormsChatapp\WindowsFormsChatapp\bin\Debug\WindowsFormsChatapp.pdb
+C:\Users\mishr\source\repos\WindowsFormsChatapp\WindowsFormsChatapp\obj\Debug\WindowsFormsChatapp.csproj.AssemblyReference.cache
+C:\Users\mishr\source\repos\WindowsFormsChatapp\WindowsFormsChatapp\obj\Debug\WindowsFormsChatapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mishr\source\repos\WindowsFormsChatapp\WindowsFormsChatapp\obj\Debug\WindowsFormsChatapp.Form1.resources
+C:\Users\mishr\source\repos\WindowsFormsChatapp\WindowsFormsChatapp\obj\Debug\WindowsFormsChatapp.Properties.Resources.resources
+C:\Users\mishr\source\repos\WindowsFormsChatapp\WindowsFormsChatapp\obj\Debug\WindowsFormsChatapp.csproj.GenerateResource.cache
+C:\Users\mishr\source\repos\WindowsFormsChatapp\WindowsFormsChatapp\obj\Debug\WindowsFormsChatapp.csproj.CoreCompileInputs.cache
+C:\Users\mishr\source\repos\WindowsFormsChatapp\WindowsFormsChatapp\obj\Debug\WindowsFormsChatapp.exe
+C:\Users\mishr\source\repos\WindowsFormsChatapp\WindowsFormsChatapp\obj\Debug\WindowsFormsChatapp.pdb
